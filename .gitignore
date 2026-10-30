@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Environment variables/secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python
+__pychache__/
+*.pyc
+
+# Django
+db.sqlite3
+media/
+static/
